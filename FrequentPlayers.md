@@ -1,17 +1,13 @@
-Amandine
-Andrew
-Dionne
-Edward
-Geraldine
-Hakan
-Ian
-Nicolas
-Pradyot
-Romeo
-Safak
-Tavleen
-Ted
-TT
-Wei Peng
-William
-Yi An
+Ash
+Chuck
+Franck
+Glenn
+John
+Ken
+Manuel
+Meé
+Noah
+Paul
+Tom
+Will
+Modi
