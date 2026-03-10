@@ -3,7 +3,7 @@
 Frequent players are included in dropdown menus to ease the match reporting.
 When a player, who is not included in dropdown menus is involved, the name of the player has to be typed in.
 
-- Report Match:  is used for matches between players that are normally present during the Saturday sessions.
+- Report Match:  is used for matches between players that are normally present during backgammon sessions.
   Matches are reported using dropdown menus for the winner/loser name and the match length.
 - Report New Player Match:  is used for matches with a player not in the dropdown menus, for example, when a new player joins.
   Matches are reported using dropdown menus or editing the name manual for the winner/loser name and the match length.
