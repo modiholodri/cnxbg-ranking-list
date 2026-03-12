@@ -5,7 +5,7 @@ Glenn
 John
 Ken
 Manuel
-Meé
+Mee
 Noah
 Paul
 Tom
