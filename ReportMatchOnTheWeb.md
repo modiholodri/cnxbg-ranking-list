@@ -1,6 +1,6 @@
 ### Short Instructions
 
-This section contains general information about the Bangkok Backgammon Rating List website.
+This section contains general information about the Backgammon website.
 
 - **⟳** Headings with a ⟳ symbol can be clicked to refresh the information in that section.
 - **⇅** Headings with a ⇅ can be clicked to expand/collapse that section.
@@ -28,7 +28,7 @@ Shows the current rating list.
 
 The different ranking lists are summarized over a specific period in time. 
 All ranking lists are shown in tabular form in the Ranking Summary section.
-A few ranking lists are also shown as a chart in the Ranking Chart (coming soon) section.
+A few ranking lists are also shown as a chart in the Ranking Chart section.
 
 💡 You can click on the legend for a chart to show/hide individual data series.
 
@@ -69,3 +69,33 @@ Other settings stored are...
 - The state of sections, i.e. if they are expanded or collapsed.
 - The selected ranking list.
 - The selected interval.
+ 
+
+### Tournament Management
+
+The tournament director is responsible for the preparation, execution, and closure of the tournament.
+
+##### Preparation
+- Collect the entree fee.
+- Prepare the scoreboard.
+- Set the match length.
+- Prepare the pairing tables, if needed.
+
+> Pairing tables are available [here](https://www.3-torens.nl/downloads/Berger%20Tabellen.pdf).
+
+##### Execution
+- Run the tournament in an orderly fashion.
+- Inform players who is their next opponent.
+- Make a ruling in case of dispute, if needed ask advice from more experienced players.
+- Make sure all results are reported on the scoreboard.
+- Inform Modi or Walter in case of wrong reports, like wrong opponent or match length.
+
+##### Closure
+- Take a picture of the scoreboard (very important).
+- Post the picture in our group.
+- Pay out the winners.
+- Check if all results have been reported for the rating list.
+- Report matches where the opponent forfeited.
+- Report missing matches by checking the results on the scoreboard picture.
+
+> Use Matches Played and Daily in the Ranking Lists section to help find out which results are missing. Keep also in mind that some players have played extra non-tournament matches before during or after the tournament.
