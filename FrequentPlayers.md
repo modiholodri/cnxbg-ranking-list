@@ -1,17 +1,17 @@
 Ash
-Brian
-Chuck
+Brian L
+Chuck C
 Franck
-Glenn
+Glenn M
 John
 John H
-Ken
-Manuel
+Ken B
+Liz J
 Mee
 Michael S
 Modi
-Noah
-Paul
+Noah P
+Paul G
 Scarlett S
 Tom
 Wendy M
