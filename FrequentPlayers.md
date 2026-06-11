@@ -7,6 +7,7 @@ John
 John H
 Ken B
 Liz J
+Lynn S
 Mee
 Michael S
 Modi
