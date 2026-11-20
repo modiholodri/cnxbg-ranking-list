@@ -19,9 +19,11 @@ Lynn S
 Mee
 Michael S
 Modi
+Nina C
 Noah P
 Paul G
 Scarlett S
+Sonny C
 Tom
 Walter O
 Wendy M
