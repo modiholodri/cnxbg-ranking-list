@@ -19,7 +19,7 @@ Lynn S
 Mee
 Michael S
 Modi
-Nina C
+Nina H
 Noah P
 Paul G
 Scarlett S
