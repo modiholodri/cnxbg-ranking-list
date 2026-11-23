@@ -17,7 +17,7 @@ Keri Z
 Liz J
 Lynn S
 Mee
-Michael S
+Michel S
 Modi
 Nina H
 Noah P
